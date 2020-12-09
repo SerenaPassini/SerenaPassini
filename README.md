@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 ## Hey 👋, This is Serena Passini
 [![Gmail Badge](https://img.shields.io/badge/-serena.passini.19@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:serena.passini.19@gmail.com)](mailto:serena.passini.19@gmail.com) 
+[![Github Badge](https://img.shields.io/badge/-SerenaPassini-grey?style=flat&logo=github&logoColor=white&link=https://github.com/SerenaPassini/)](https://www.github.com/SerenaPassini/) <p align='left'>
 
 I'm a computer science student at the University of Modena and Reggio Emilia</p>
 ## Some of my Github Stats
